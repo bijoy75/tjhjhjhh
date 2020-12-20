@@ -1,45 +1,46 @@
 # tjhjhjhh
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/StarJalshaHD/index.m3u8?token=84eee27d877aa38ad211d118e5f9344183d6f9b1-20bdaf8b75ecab8607342ad46c249079-1608484009-1608473209
-
-
-# http://bdiptv.net:8080/StarPlus/index.m3u8?token=94429352e354072bfd3c4bf9ae596bd8277108ed-0f36b58155db1984ce511fff60f6a4f0-1608484176-1608473376 Star Plus
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
+http://bdiptv.net:8080/StarPlus/index.m3u8?token=94429352e354072bfd3c4bf9ae596bd8277108ed-0f36b58155db1984ce511fff60f6a4f0-1608484176-1608473376 Star Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/ZeeBanglaHD/index.m3u8?token=e498fd638b1facd6a5bb3432c4cb084ccce09120-9a4afb82ef1965012ffff6b702c42154-1608484241-1608473441
-Zee Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/ZeeBangla/index.m3u8?token=508ca820a654302386a828737e57350ea23bee3e-a31bd4d1e66f4580812074de67f4b28c-1608484303-1608473503
-Sony aath
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/SonyAath/index.m3u8?token=96837c14417789801d630714651f8137a476dea3-6f3c96f11b4179928ba49eb88a3b7107-1608484382-1608473582
-T Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/TSportsHD/index.m3u8?token=340a59bc0c26a28c327a5f40db61b2ac9e974b28-c3705bc846501d56d216ffe763a633d6-1608484439-1608473639
-Gtv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/GaziTV/index.m3u8?token=68675dc88e491ae00f5d34ef70e04d45048b4e9a-0b13add7dc8be32d25f43291a8647e02-1608484483-1608473683
-Dhoom
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/Dhoom/index.m3u8?token=1553c14ee18b0230b3357745a82c81e7da8f4bff-a36bb83e93b3b866f707e507ce830aca-1608484525-1608473725
-Ruposhi Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/RuposhiBangla/index.m3u8?token=1b29a0c119fc5f226506442c046af2f1b27f2a50-4c69075bb151804c5eb0dc802501433b-1608484532-1608473732
-Colours
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/Colors/index.m3u8?token=a8e3d7f9e3395ea09bd189eea7816c059fd144ae-cea1bfe258771aedabd7b98549c23245-1608484547-1608473747
-CN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/CartoonNetwork/index.m3u8?token=f918cb0881bf34a46c7169b9dfa0dbf03ccb9004-22611ebacf14f3dc8fdaae4b50f7ff24-1608484552-1608473752
-Nick
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/Nick/index.m3u8?token=4af711e4e0861b73035424d192b5a21feca0c718-81db35a4fa4cca2bc24db8c4ccf41212-1608484562-1608473762
-9XM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/9XM/index.m3u8?token=1698edf6f08d0e304f2f41034bc5b4ac34632ecb-24add066ac6ad3a6b96d0e0fb237fd91-1608484574-1608473774
-Akash 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/AakashAath/index.m3u8?token=87511e37680a0de5b261fded66c52b81584288f7-fda4f3e868534c4bf26eecf2f1bca043-1608484576-1608473776
-Zoom
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/Zoom/index.m3u8?token=7e7eb24c644bcf78983dc362bf5c52fd39ab14b6-1373ba5aa3b379f373eb07fae24e67a2-1608484581-1608473781
-Mtv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/MTV/index.m3u8?token=0df29b44db920b70cd737cb6e43063b71ffb2729-1b10bfef135b691a3805860f4cc0669c-1608484584-1608473784
-Dicovery HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/Discovery/index.m3u8?token=bd0d44fe792564fd88c3212c261555ca4f0d793f-52ac759a0c9078f0f0e8d4d3060f9ee6-1608484587-1608473787
-Animal Planets hd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/AnimalPlanet/index.m3u8?token=f95fc6198ab87011fe536ff6646763b2a947acc1-7336b41711365122101d0b7589842daa-1608484595-16084737
-Sony Six
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/SonySix/index.m3u8?token=1f0ba826fb98ce084837be203d1dc64244f107e8-a4a2f5e42f64b22a5b4dffb0dec1b6bc-1608484606-1608473806
-Sony Ten1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/SonyTen1/index.m3u8?token=843f45c12dc6b3792e172cd45309e23741aca36b-8863e5bfaa4da97346bfff3acfc7cbd8-1608484609-1608473809
-Sony Ten2 http://bdiptv.net:8080/SonyTen2/index.m3u8?token=af80428f0c6ac225f9381b586994ab883760375d-1117511846a19a2580bc8b46cc8eb64d-1608484612-1608473812
-Star Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
+http://bdiptv.net:8080/SonyTen2/index.m3u8?token=af80428f0c6ac225f9381b586994ab883760375d-1117511846a19a2580bc8b46cc8eb64d-1608484612-1608473812
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/StarMovies/index.m3u8?token=097ad54b85f24c82c1cb0ce8118130abfa3b848d-a509139d5307bfad502c90a497da1b07-1608484619-1608473819
