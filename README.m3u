@@ -44,3 +44,5 @@ http://bdiptv.net:8080/SonyTen1/index.m3u8?token=843f45c12dc6b3792e172cd45309e23
 http://bdiptv.net:8080/SonyTen2/index.m3u8?token=af80428f0c6ac225f9381b586994ab883760375d-1117511846a19a2580bc8b46cc8eb64d-1608484612-1608473812
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladesh",Jamuna TV
 http://bdiptv.net:8080/StarMovies/index.m3u8?token=097ad54b85f24c82c1cb0ce8118130abfa3b848d-a509139d5307bfad502c90a497da1b07-1608484619-1608473819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://images.app.goo.gl/ipLR1ZoHFtjThQjZ7" group-title="Hindi",Sony Max HD
+http://zer0live.hjkm.info:11991/neptune/sonysetmaxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCAzOjMyOjA4IFBNJmhhc2hfdmFsdWU9VWwwWTQ1VzlXL3JvemhzQVJOb0tnZz09JnZhbGlkbWludXRlcz0y
