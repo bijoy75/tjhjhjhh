@@ -46,4 +46,5 @@ http://bdiptv.net:8080/SonyTen2/index.m3u8?token=af80428f0c6ac225f9381b586994ab8
 http://bdiptv.net:8080/StarMovies/index.m3u8?token=097ad54b85f24c82c1cb0ce8118130abfa3b848d-a509139d5307bfad502c90a497da1b07-1608484619-1608473819
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://images.app.goo.gl/ipLR1ZoHFtjThQjZ7" group-title="Hindi",Sony Max HD
 http://zer0live.hjkm.info:11991/neptune/sonysetmaxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyMCAzOjMyOjA4IFBNJmhhc2hfdmFsdWU9VWwwWTQ1VzlXL3JvemhzQVJOb0tnZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max" tvg-logo="https://images.app.goo.gl/ipLR1ZoHFtjThQjZ7" group-title="Hindi",Sony Max HD
 https://live.bongobd.com/hls/ofWF_w6nY_ysrY1U1hnnxA/1608483070/ekattur_tv_hi/index.m3u8
